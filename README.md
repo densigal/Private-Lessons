@@ -5,7 +5,8 @@ Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/ra
 Team project at Le Wagon web development BootCamp, batch#1808 (2024/10~12).
 <br>
 App home: [[Private Lessons](https://private-lessons-993d7398cc84.herokuapp.com/)
-[Screenshot](https://res.cloudinary.com/dtk9adhb1/image/upload/v1733728367/Private_Lessons_mobile_view_pvfire.png)
+
+[Screenshot](https://res.cloudinary.com/dtk9adhb1/image/upload/v1733728367/Private_Lessons_mobile_view_pvfire.png/)
 
 ## Getting Started
 ### Setup
@@ -49,7 +50,7 @@ rails s
 Inspired by Jane Mount's [Bibliophile](https://www.amazon.com/Bibliophile-Illustrated-Miscellany-Jane-Mount/dp/1452167230) and a story my father once told me: "Why do we keep books? ... We keep books because they remind us of the new perspectives and lessons we learned".
 
 ## Team Members
-- [Denis Sigal](https://www.linkedin.com/in/denissigal)
+- [Denis Sigal](https://www.linkedin.com/in/denissigal/)
 - https://github.com/YukinagaS
 - https://github.com/Alisa28028
 - https://github.com/lostonpurpose
