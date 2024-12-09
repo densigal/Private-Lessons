@@ -4,7 +4,7 @@ Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/ra
 
 Team project at Le Wagon web development BootCamp, batch#1808 (2024/10~12).
 <br>
-App home: [[Private Lessons](https://private-lessons-993d7398cc84.herokuapp.com/)
+App home: [Private Lessons](https://private-lessons-993d7398cc84.herokuapp.com/)
 
 [Screenshot](https://res.cloudinary.com/dtk9adhb1/image/upload/v1733728367/Private_Lessons_mobile_view_pvfire.png/)
 
